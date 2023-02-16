@@ -1,6 +1,9 @@
 #include <stdio.h>
-
-int main()
+/*
+ * main - begin
+ * return is 0
+ */
+int main(void)
 {
 	/* Strings Begin */
 	char str[] = "\"Programming is like building a multilingual puzzle";
@@ -8,5 +11,5 @@ int main()
 	/* Now print on OUT */
 	puts(str);
 
-	return 0;
+	return (0);
 }
