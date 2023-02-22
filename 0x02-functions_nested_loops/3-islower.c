@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * -islower - check for lower case
+ * _islower - check for lower case
  *  @c: return charach=ter check
  *  Return: 1 ro 0
  */
