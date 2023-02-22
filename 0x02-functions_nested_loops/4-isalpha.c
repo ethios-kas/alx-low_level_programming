@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpah - checks for alphabet
+ * _isalpha - checks for alphabet
  * @c: the char tp be checked
  * Return: 0 or 1
  */
