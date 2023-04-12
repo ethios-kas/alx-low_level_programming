@@ -1,1 +1,1 @@
- This is where my programming journey begins day 1 of coding in C
+ This is C coding.
