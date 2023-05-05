@@ -11,7 +11,7 @@ void print_binary(unsigned long int n)
 	int tzero = 0, i;
 	unsigned long int x;
 
-	for (i = 23; i >= 0; i--)
+	for (i = 63; i >= 0; i--)
 	{
 		x = (n >> i) & 1;
 		if (x == 1)
