@@ -17,7 +17,7 @@ void print_binary(unsigned long int n)
 		if (x == 1)
 			tzero = 1;
 		if (tzero == 1)
-			_putchar((x & 1) + '0');
+			_putchar(x + '0');
 	}
 	if (n == 0)
 		_putchar('0');
