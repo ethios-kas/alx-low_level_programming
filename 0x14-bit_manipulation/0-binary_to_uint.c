@@ -29,6 +29,9 @@ unsigned int binary_to_uint(const char *b)
 	int x = 0, len;
 	unsigned int dec, res = 0;
 
+	if (!b)
+		return (0);
+
 	while (b[x])
 	{
 		if (b[x] > '1' || b[x] < '0')
