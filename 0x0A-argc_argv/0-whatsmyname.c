@@ -3,16 +3,15 @@
 
 /**
  * main - beginnening of my function
- * @argc: argument counter
- * @argv: argument vector
+ * @argc: integer value for the counter of arguments made to our program
+ * @argv: string of char vector
  *
  * Return: name of our file
  */
 
 int main(int argc, char *argv[])
 {
-	(void) argc;
 	printf("%s\n", argv[0]);
 
-	return (0);
+	return(0);
 }
