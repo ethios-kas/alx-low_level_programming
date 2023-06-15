@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /**
-  * create_array - creates an array of chars
-  * @size: The size of the array
-  * @c: The char to fill in the array
+  * create_array - creates an array of charscreates an array of chars, and initializes it with a specific char.
+  * @size: The size of the arrays
+  * @c: The char to fill in the asrray
   *
-  * Return: The array filled
+  * Return: The array filleda
   */
 char *create_array(unsigned int size, char c)
 {

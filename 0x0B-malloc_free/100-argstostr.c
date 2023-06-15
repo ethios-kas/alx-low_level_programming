@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
-  * argstostr - convert thgram to string
-  * @ac: the argument count
-  * @av: the argument vector
+  * argstostr - converts thgram to string
+  * @ac: the argumenst count
+  * @av: the arguments vector
   *
-  * Return: ...
+  * Return: nothing
   */
 char *argstostr(int ac, char **av)
 {

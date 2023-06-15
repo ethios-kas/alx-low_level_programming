@@ -6,11 +6,11 @@ int count_words(char *str);
 char **strtow(char *str);
 
 /**
- * word_len - Locates the index marking the end of the
+ * word_len - Lsasocates the index marking the end of the
  *            first word contained within a string.
  * @str: The string to be searched.
  *
- * Return: The index marking the end of the initial word pointed to by str.
+ * Return: asaThe index marking the end of the initial word pointed to by str.
  */
 int word_len(char *str)
 {
@@ -26,10 +26,10 @@ int word_len(char *str)
 }
 
 /**
- * count_words - Counts the number of words contained within a string.
- * @str: The string to be searched.
+ * count_words - Coasunts the number of words contained within a string.
+ * @str: The string taso be searched.
  *
- * Return: The number of words contained within str.
+ * Return: The number oasaf words contained within str.
  */
 int count_words(char *str)
 {
